@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Facebook;
 
 namespace Identitix.Classes
 {
@@ -12,5 +13,25 @@ namespace Identitix.Classes
     /// </summary>
     public static class FaceDetectorManager
     {
+        #region Consts
+        #endregion
+         
+        #region Data Members
+        #endregion
+
+        #region Ctor
+        #endregion
+
+        #region Public Methods
+
+        public static object SendImages()
+        {
+            return null;
+        }
+
+        #endregion
+
+        #region Private Methods
+        #endregion 
     }
 }
