@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identitix", "Identitix\Identitix.csproj", "{444F7CB5-AEC3-4AA0-9FB5-7D55642DB345}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentitixUnitTest", "IdentitixUnitTest\IdentitixUnitTest.csproj", "{62AE1693-45D7-4011-BF70-BBB3339A7929}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{444F7CB5-AEC3-4AA0-9FB5-7D55642DB345}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{444F7CB5-AEC3-4AA0-9FB5-7D55642DB345}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{444F7CB5-AEC3-4AA0-9FB5-7D55642DB345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AE1693-45D7-4011-BF70-BBB3339A7929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AE1693-45D7-4011-BF70-BBB3339A7929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AE1693-45D7-4011-BF70-BBB3339A7929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AE1693-45D7-4011-BF70-BBB3339A7929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

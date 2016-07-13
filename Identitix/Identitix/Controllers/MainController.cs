@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading.Tasks;
 using System.Web.Http;
+using Identitix.Classes;
+using Microsoft.ProjectOxford.Face.Contract;
 
 namespace Identitix.Controllers
 {
@@ -16,9 +19,10 @@ namespace Identitix.Controllers
     public class MainController : ApiController
     {
         // GET: api/Main
-        public IEnumerable<string> Get()
+        public object Get()
         {
-            return new string[] { "value1", "value2" };
+            //var faces = FaceDetectorManager.SendImages();
+            return (null);
         }
 
         // GET: api/Main/5

@@ -127,3 +127,4 @@ C:\Users\admin\Documents\Identitix\Identitix\Identitix\bin\System.Web.Http.WebHo
 C:\Users\admin\Documents\Identitix\Identitix\Identitix\obj\Debug\Identitix.csprojResolveAssemblyReference.cache
 C:\Users\admin\Documents\Identitix\Identitix\Identitix\obj\Debug\Identitix.dll
 C:\Users\admin\Documents\Identitix\Identitix\Identitix\obj\Debug\Identitix.pdb
+C:\Users\admin\Documents\Identitix\Identitix\Identitix\bin\Microsoft.ProjectOxford.Face.dll
